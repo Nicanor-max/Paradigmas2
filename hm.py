@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Bienvenidos a paradigmas 2")
