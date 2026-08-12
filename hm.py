@@ -10,7 +10,7 @@ VELOCIDAD_MS = 100
 COLOR_FONDO = "#111827"
 COLOR_SERPIENTE = "#dcdcdc"
 COLOR_CABEZA = "#2e2e2e"
-COLOR_COMIDA = "#ef4444"
+COLOR_COMIDA = "#02053f"
 
 
 class JuegoViborita:
