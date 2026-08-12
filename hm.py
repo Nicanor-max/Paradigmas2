@@ -2,7 +2,7 @@ import random
 import tkinter as tk
 
 
-ANCHO = 600
+ANCHO = 650 
 ALTO = 650
 TAMANO_CELDA = 30
 VELOCIDAD_MS = 120
