@@ -16,7 +16,7 @@ COLOR_COMIDA = "#02053f"
 class JuegoViborita:
     def __init__(self, ventana):
         self.ventana = ventana
-        self.ventana.title("Juego de la Viborita")
+        self.ventana.title("Juego de la Viborota")
         self.ventana.resizable(False, False)
 
         self.puntuacion_texto = tk.StringVar()
